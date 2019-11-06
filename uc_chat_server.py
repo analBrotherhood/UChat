@@ -42,5 +42,5 @@ except KeyboardInterrupt:
     exit()
 
 except SyntaxError:
-    print('\n\nAre you try to launch me on python3? My code is created for python 3.X.X, if you launch me using python 2, my code didn\'nt execute successful. Try \'python3\', or contact me: coderusual00@protonmail.com')
+    print('\n\nAre you try to launch me on python3? My code is created for python 3.X.X, if you launch me using python 2, my code didn\'nt execute successful. Try \'python3\', or contact me: support@usu4lc0d3r.su')
     exit()
